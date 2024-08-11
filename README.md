@@ -7,10 +7,8 @@ Welcome to the Simple and Fun Todo App! This lightweight and engaging todo appli
 - Delete Tasks: Remove tasks you no longer need.
 - Local Storage: Tasks persist even after refreshing or closing the browser.
 
-## 💻 Getting Started
-To get started with this project, follow these steps:
 
-Clone the Repository:
+## Clone the Repository:
 
 ```bash
 git clone https://github.com/yourusername/todo-app.git
